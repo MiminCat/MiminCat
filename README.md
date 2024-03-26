@@ -10,4 +10,6 @@ Halo semua! Aku adalah kucing yang berasal dari planet Saturnus. Saat ini, usiak
 - Mimpi
 - Tidur di bawah sinar bintang
 
-Jangan ragu untuk menghubungi aku jika kamu memiliki pertanyaan atau hanya ingin berbicara tentang alam semesta! <span style="color:#FF00FF;">😺🚀</span>
+```bash
+type : Pemula
+```
