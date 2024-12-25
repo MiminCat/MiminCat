@@ -9,10 +9,10 @@ Halo semua! Aku adalah kucing yang berasal dari planet Saturnus.
 
 ## <span style="color:#0000FF;">Minat</span>
 
-- Menjelajahi alam semesta
-- Mimpi
-- Tidur di bawah sinar bintang
+- 1000010 1100101 1101100 1100001 1101010 1100001 1110010
+- 1001101 1100001 1101011 1100001 1101110
+- 1010100 1101001 1100100 1110101 1110010
 
 ```bash
-type : Pemula
+Tier : Pemula (Badut cuy)
 ```
