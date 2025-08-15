@@ -2,10 +2,9 @@
 
 ## <span style="color:#FFA500;">Tentang Aku</span>
 
-Halo semua! Aku adalah kucing yang berasal dari planet Saturnus. 
-`[Mage]`.
+Halo semua! Namaku 'Faaiz' salam kenal.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF7C8&random=false&width=435&lines=Aku+pelajar+esempeh;Makanan+Kesukaanku+adalah+Ayam+Geprek;kamu+melihat+ku?;Aku+Masih+Pemula+Tolong+ajari+aku+dong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF7C8&random=false&width=435&lines=Aku+mahasiswa;Aku+suka+makan+pedas;Salam+kenal;Aku+Masih+Pemula+Tolong+ajari+aku+dong)](https://git.io/typing-svg)
 
 ## <span style="color:#0000FF;">Minat</span>
 
@@ -14,5 +13,5 @@ Halo semua! Aku adalah kucing yang berasal dari planet Saturnus.
 - 1010100 1101001 1100100 1110101 1110010
 
 ```bash
-Tier : Pemula (Badut cuy)
+Mahasiswa UM
 ```
