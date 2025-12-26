@@ -1,13 +1,15 @@
-# <div align="center">✨ Salken Namaku Faaiz ✨</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=ViciPAW%20%F0%9F%90%B1&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div>
+
+## <div align="center">✨ Salken Namaku Faaiz ✨</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Mahasiswa+Universitas+Negeri+Malang+%F0%9F%93%9A;Jurusan+Animasi+%F0%9F%8E%A8" alt="Typing SVG" />
 </div>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=ViciPAW%20%F0%9F%90%B1&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tentang Aku
 
